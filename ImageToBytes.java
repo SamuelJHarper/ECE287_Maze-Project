@@ -1,3 +1,12 @@
+/*
+Developed by: Samuel Harper 
+Developed for: ECE287:Digital Design final project
+Purpose: To convert an image into a matrix the size of
+	with either a 1 or 0. A zero if, the given pixel
+	value for the red channel is 0, and a 1 otherwise.
+
+*/
+
 package edu.miamioh.harpers6;
 
 import java.awt.image.BufferedImage;
