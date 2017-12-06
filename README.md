@@ -1,5 +1,8 @@
 # ECE287_Maze-Project
-Final project designed for ECE287 Digital Design
+**Final project designed for ECE287 Digital Design by Samuel Harper**
+
+
+  Proceed to the [wiki](https://github.com/SamuelJHarper/ECE287_Maze-Project/wiki) page to find out more about the project
 
 **LogicGateOutput.java**:
   This Java script takes an input coordinates of rectangles (top left (x,y) and bottom right (x,y)), and
