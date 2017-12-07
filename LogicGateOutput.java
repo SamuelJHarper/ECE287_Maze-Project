@@ -1,3 +1,12 @@
+/*
+Developed by: Samuel Harper 
+Developed for: ECE287:Digital Design final project
+Purpose: To take input coordinates for rectangles to be implemented on a VGA Display
+	and output the coordinates in combinational logic for VGA display and
+	player collision, in VHDL syntax.
+
+*/
+
 package edu.miamioh.harpers6;
 
 import java.util.ArrayList;
